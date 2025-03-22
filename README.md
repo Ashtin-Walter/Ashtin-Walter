@@ -38,7 +38,6 @@ I'm Ashtin, a passionate **Web Developer** and tech enthusiast who loves buildin
 
 ### 📫 **How to Reach Me**
 - 🌐 [Personal Website/Portfolio](https://walterhouse.co.za/)
-- 🐦 Twitter: [@AshtinWalter](https://twitter.com/AshtinWalter)
 - 📧 Email: ashtinjw.dev@gmail.com  
 
 ---
