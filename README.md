@@ -6,7 +6,7 @@ I'm Ashtin, a passionate **Web Developer** and tech enthusiast who loves buildin
 
 ### 🔭 **What I'm Working On**
 - 🧑‍🍳 **Muncharoo Recipe App** – A full-stack recipe site with a Next.js frontend, Tailwind & shadcn UI, and MariaDB backend.  
-- 🖥️ **Pi Dashboard** – A multi-app dashboard running on my Raspberry Pi server to manage my projects and stats.  
+- 🖥️ **Pi Server** – A multi-app project running on my Raspberry Pi server that manages my projects and and helpful apps.  
 - 🎮 **Tenfinity** – A React-based game inspired by 1010!, with smooth animations and dynamic gameplay.
 
 ---
@@ -37,8 +37,8 @@ I'm Ashtin, a passionate **Web Developer** and tech enthusiast who loves buildin
 ---
 
 ### 📫 **How to Reach Me**
-- 🌐 [Personal Website/Portfolio](https://walterhouse.co.za/)
-- 📧 Email: ashtinjw.dev@gmail.com  
+- 🌐 [Portfolio](https://walterhouse.co.za/)
+- 📧 Email: ashtin@walterhouse.co.za  
 
 ---
 
