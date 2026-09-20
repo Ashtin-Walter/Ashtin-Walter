@@ -1,53 +1,78 @@
-### Hi there 👋
+# Hey, I'm Ashtin 👋
 
-I'm **Ashtin**, a developer and product-minded engineer based in Cape Town, working at the intersection of web applications, platform reliability, and self-hosted systems.
+**Software Engineering · Infrastructure · Developer Tooling**
 
-By day I work as a **Product Support Engineer**, helping keep a global SaaS platform stable, scalable, and easy to use. Outside of work I enjoy building full-stack projects with **Next.js, React, Node.js and SQL**, often deploying them on **Raspberry Pi / Linux** just to understand systems end-to-end.
+I'm a Cape Town–based engineer who enjoys building software, understanding the systems behind it, and making everyday engineering work a little easier.
 
-I like solving practical problems, improving developer workflows, and building things that real people use.
+I currently work as a **Product Support Engineer at Artlogic**, where my work spans production debugging, application development, SQL, automation, and internal developer tooling.
 
----
+Outside of work, I build full-stack applications and self-hosted infrastructure, with a growing focus on platform engineering, deployment automation, and reliable systems.
 
-### 🔧 Current Projects
-- **🍳 Muncharoo** — full-stack recipe platform (Next.js + Tailwind + shadcn + MariaDB)
-- **📊 Pi Dashboard** — self-hosted multi-app hub for my home server
-- **🎮 Tenfinity** — casual puzzle game built with React
+I enjoy working across the stack — from writing application code to figuring out how it gets built, deployed, monitored, and maintained.
 
----
-
-### 📚 Currently exploring
-- Advanced React patterns & performance
-- Node.js APIs and backend architecture
-- CI/CD, PM2, Nginx & deployment pipelines
-- Databases + data modelling
+[Portfolio](https://ashtin.walterhouse.co.za) · [LinkedIn](https://www.linkedin.com/in/ashtin-walter-b60709250/) · [Email](mailto:ashtin@walterhouse.co.za)
 
 ---
 
-### 🛠 Tech I use regularly
-**Frontend**
-- React / Next.js  
-- Tailwind CSS  
-- shadcn UI  
+### What I'm working on
 
-**Backend & Data**
-- Node.js  
-- SQL (MariaDB / MySQL)  
+**Infrastructure & Automation**
 
-**DevOps & Hosting**
-- Linux & Raspberry Pi  
-- Nginx  
-- PM2  
+Building a reusable deployment platform for my personal projects and WalterHouse Works, using GitHub Actions, Docker, GHCR, Komodo, Nginx, and Cloudflare.
 
----
+The goal is to make deployments repeatable: build an image, publish it, provision the required infrastructure, deploy, and verify the result.
 
-### 🌍 Find me here
-🔗 https://ashtin.walterhouse.co.za  
-💼 [LinkedIn](https://www.linkedin.com/in/ashtin-walter-b60709250/) 
-📧 Email: ashtin@walterhouse.co.za  
+**Self-Hosted Systems**
+
+Running and maintaining a small Linux homelab across a Dell OptiPlex and Raspberry Pi, hosting applications and services while experimenting with observability, networking, infrastructure automation, and operational reliability.
+
+**Full-Stack Development**
+
+Building web applications and tools with React, Next.js, TypeScript, Node.js, and SQL — with an emphasis on practical functionality, maintainability, and deployment.
 
 ---
 
-### ⚡ A little about me
-I enjoy understanding how systems fit together — from UI to database to deployment. I like clean, maintainable code and products that solve real problems. And yes, I still believe coffee → code ☕➡️💻  
+### Selected projects
 
-Thanks for stopping by — feel free to check out my projects or say hi 🙂
+| Project                              | Description                                                                                                       |
+| ------------------------------------ | ----------------------------------------------------------------------------------------------------------------- |
+| **Toolshed**                         | Self-hosted application deployed through a reusable CI/CD pipeline, from container build to automated deployment. |
+| **WalterHouse Works Infrastructure** | Manifest-driven deployment workflows for provisioning and deploying client websites to staging environments.      |
+| **Muncharoo**                        | Full-stack recipe platform built with Next.js, Tailwind CSS, and MariaDB.                                         |
+| **Tenfinity**                        | Casual puzzle game built with React.                                                                              |
+
+More projects and technical write-ups are available on my [portfolio](https://ashtin.walterhouse.co.za).
+
+---
+
+### Technologies I work with
+
+| Area                      | Technologies                                |
+| ------------------------- | ------------------------------------------- |
+| **Languages**             | TypeScript, JavaScript, Python, SQL         |
+| **Frontend**              | React, Next.js, Tailwind CSS                |
+| **Backend & Data**        | Node.js, MySQL, MariaDB                     |
+| **Infrastructure**        | Linux, Docker, Nginx, Cloudflare, Tailscale |
+| **Automation & Delivery** | GitHub Actions, GHCR, Komodo, Bash          |
+| **Tools**                 | Git, GitHub, VS Code                        |
+
+---
+
+### Currently exploring
+
+* Platform engineering and site reliability engineering
+* Infrastructure as Code and cloud infrastructure
+* Observability, monitoring, and incident response
+* Developer tooling and deployment automation
+
+---
+
+### A little more about me
+
+I like understanding how things work end-to-end — not just how to write an application, but how to run it, keep it reliable, and make it easier for the next person to work on.
+
+I'm particularly interested in the intersection of software engineering, infrastructure, and developer experience.
+
+When I'm not writing code, I'm usually experimenting with my homelab, working on a side project, or getting out for a run.
+
+**Build things. Understand them. Make them better.**
